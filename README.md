@@ -15,7 +15,3 @@ steppzilla.github.io/pqFormel/pqFormel.html
 
 
 > lkajdsflkjadsf
-
-```java
-System.out.println('jjj');
-```
