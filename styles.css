@@ -7,6 +7,34 @@
   font-size:13pt;
   font-family: Roboto, Helvetica, Times New Roman;
 }
+a:link{
+  color:steelblue;
+}
+a:visited{
+  color:purple;
+}
+a:active{
+
+}
+a:hover{
+
+}
+
+.links{
+  display: flex;
+}
+
+
+
+.link{
+  margin:20pt;
+  padding:20pt;
+  width:200pt;
+
+}
+
+
+
 #inputFeld{
   height:100%;
   font-size:inherit;

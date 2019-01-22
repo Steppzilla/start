@@ -27,6 +27,8 @@ function coloring(){
 }
 
 function vierfarbengeben(dunkel2, dunkel1, hell1, hell2,hintergrund){
+	$(".eins").addClass(hell1);
+		$(".zwei").addClass(hell2);
 //	$(".mySvg").addClass(hell1);
 	$(".aufgabenübersicht").addClass(hell2);
 	$("button").addClass(dunkel2);

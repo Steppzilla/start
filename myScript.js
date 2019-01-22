@@ -4,7 +4,7 @@ var aufgabenwahl ;
 
 
 
-linkeSeiteschreiben();
+//linkeSeiteschreiben();
 $(".menu").find(".druck").hide();
 
 
